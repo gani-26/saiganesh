@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SG light theme icon">
+  <defs>
+    <linearGradient id="bgLt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f1f6ff" />
+      <stop offset="100%" stop-color="#d4e2f4" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#bgLt)" stroke="#89a5c3" stroke-width="2.5" />
+  <text
+    x="32"
+    y="36"
+    text-anchor="middle"
+    font-size="19"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-weight="700"
+    fill="#1f2733"
+  >
+    SG
+  </text>
+  <text
+    x="52"
+    y="52"
+    text-anchor="end"
+    font-size="9"
+    font-family="'IBM Plex Mono', 'Courier New', monospace"
+    font-weight="700"
+    fill="#2f3f52"
+  >
+    LT
+  </text>
+</svg>
